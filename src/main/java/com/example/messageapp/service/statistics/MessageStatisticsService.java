@@ -1,4 +1,4 @@
-package com.example.messageapp.service;
+package com.example.messageapp.service.statistics;
 
 import com.example.messageapp.controller.statistics.UserMessageStatistics;
 

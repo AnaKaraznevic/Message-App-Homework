@@ -1,4 +1,4 @@
-package com.example.messageapp.service;
+package com.example.messageapp.service.message;
 
 import com.example.messageapp.controller.message.MessageResponse;
 import com.example.messageapp.model.Message;

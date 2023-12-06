@@ -2,7 +2,7 @@ package com.example.messageapp.controller.user;
 
 import com.example.messageapp.model.Role;
 import com.example.messageapp.model.User;
-import com.example.messageapp.service.UserService;
+import com.example.messageapp.service.user.UserService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

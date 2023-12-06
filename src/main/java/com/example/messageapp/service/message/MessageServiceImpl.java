@@ -1,9 +1,10 @@
-package com.example.messageapp.service;
+package com.example.messageapp.service.message;
 
 import com.example.messageapp.controller.message.MessageMapper;
 import com.example.messageapp.controller.message.MessageResponse;
 import com.example.messageapp.model.Message;
 import com.example.messageapp.repository.MessageRepository;
+import com.example.messageapp.service.user.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

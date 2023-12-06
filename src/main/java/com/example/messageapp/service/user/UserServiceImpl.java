@@ -1,4 +1,4 @@
-package com.example.messageapp.service;
+package com.example.messageapp.service.user;
 
 import com.example.messageapp.exception.UserNotFoundException;
 import com.example.messageapp.model.Role;

@@ -5,6 +5,7 @@ import com.example.messageapp.model.Role;
 import com.example.messageapp.model.User;
 import com.example.messageapp.repository.MessageRepository;
 import com.example.messageapp.repository.UserRepository;
+import com.example.messageapp.service.user.UserServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
