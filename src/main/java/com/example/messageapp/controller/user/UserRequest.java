@@ -3,9 +3,11 @@ package com.example.messageapp.controller.user;
 import com.example.messageapp.model.User;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 @Getter
+@AllArgsConstructor
 public class UserRequest {
 
     @NotBlank(message = "Name cannot be blank")
